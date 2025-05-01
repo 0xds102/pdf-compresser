@@ -28,4 +28,3 @@ A simple Python script to compress PDF files using [Ghostscript](https://www.gho
 ```bash
 python3 main.py [filename.pdf]
 ```
-```
